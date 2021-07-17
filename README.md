@@ -1,4 +1,4 @@
 # MongoDriverPHP
-Driver Connect MongoDB
-php 8 
-Ex localhost/show.php
+# Driver Connect MongoDB
+$ php 8 
+#Ex show.php
